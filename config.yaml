@@ -1,0 +1,6 @@
+OpenStreetMap:
+  #url: 'http://api.openstreetmap.org'
+  url: 'http://api06.dev.openstreetmap.org'
+  user: 'user/email'
+  password: 'password'
+
